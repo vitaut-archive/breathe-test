@@ -1,0 +1,12 @@
+PROJECT_NAME      = Breathe Test
+GENERATE_LATEX    = NO
+GENERATE_MAN      = NO
+GENERATE_RTF      = NO
+CASE_SENSE_NAMES  = YES
+INPUT             = test.h
+QUIET             = NO
+JAVADOC_AUTOBRIEF = YES
+AUTOLINK_SUPPORT  = NO
+GENERATE_HTML     = YES
+GENERATE_XML      = YES
+XML_OUTPUT        = doxyxml
