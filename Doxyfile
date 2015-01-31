@@ -7,6 +7,6 @@ INPUT             = test.h
 QUIET             = NO
 JAVADOC_AUTOBRIEF = YES
 AUTOLINK_SUPPORT  = NO
-GENERATE_HTML     = YES
+GENERATE_HTML     = NO
 GENERATE_XML      = YES
 XML_OUTPUT        = doxyxml
